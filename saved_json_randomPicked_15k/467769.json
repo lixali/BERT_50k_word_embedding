@@ -1,0 +1,5 @@
+{
+ "id": "467769",
+ "text": "Datagram Delivery Protocol (DDP) is a member of the AppleTalk networking protocol suite. Its main responsibility is for socket-to-socket delivery of datagrams over an AppleTalk network. *Note: All application-level protocols, including the infrastructure protocols NBP, RTMP and ZIP were built on top of DDP. ==External links== * - AppleTalk Management Information Base II *DDP Variable Specifications Category:Network layer protocols",
+ "title": "Datagram Delivery Protocol"
+}

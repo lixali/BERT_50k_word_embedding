@@ -1,0 +1,5 @@
+{
+ "id": "501768",
+ "text": "In mathematics, a magma object, can be defined in any category \\mathbf{C} equipped with a distinguished bifunctor \\otimes : \\mathbf{C} \\times \\mathbf{C} \\rightarrow \\mathbf{C}. Since Mag, the category of magmas, has cartesian products, we can therefore consider magma objects in the category Mag. These are called auto magma objects. There is a more direct definition: an auto magma object is a set X together with a pair of binary operations f,g:X\\times X \\rightarrow X satisfying g(f(x,y),f(x',y')) = f(g(x,x'),g(y,y')) for all x,x',y,y' in X. A medial magma is the special case where these operations are equal. Category:Category theory",
+ "title": "Auto magma object"
+}

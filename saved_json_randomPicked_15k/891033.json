@@ -1,0 +1,5 @@
+{
+ "id": "891033",
+ "text": "S-attributed grammars are a class of attribute grammars characterized by having no inherited attributes, but only synthesized attributes. Inherited attributes, which must be passed down from parent nodes to children nodes of the abstract syntax tree during the semantic analysis of the parsing process, are a problem for bottom-up parsing because in bottom-up parsing, the parent nodes of the abstract syntax tree are created after creation of all of their children. Attribute evaluation in S-attributed grammars can be incorporated conveniently in both top-down parsing and bottom-up parsing. Specifications for parser generators in the Yacc family can be broadly considered S-attributed grammars. However, these parser generators usually include the capacity to reference global variables and/or fields from within any given grammar rule, meaning that this is not a pure S-attributed approach. Any S-attributed grammar is also an L-attributed grammar. ==See also== * Attribute grammar Category:Formal languages Category:Compiler construction",
+ "title": "S-attributed grammar"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "217354",
+ "text": "In Computer Science, in the field of databases, non-lock concurrency control is a concurrency control method used in relational databases without using locking. There are several non-lock concurrency control methods, which involve the use of timestamps on transaction to determine transaction priority: * Optimistic concurrency control * Timestamp-based concurrency control * Multiversion concurrency control ==See also== * Concurrency pattern * InterBase * Lock-free and wait-free algorithms Category:Concurrency control Category:Transaction processing",
+ "title": "Non-lock concurrency control"
+}

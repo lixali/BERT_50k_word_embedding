@@ -1,0 +1,5 @@
+{
+ "id": "735773",
+ "text": "SMC (SubMiniature version C) connectors are coaxial RF connectors developed in the 1960s. The interface specifications for the SMC and many other connectors are referenced in MIL-STD-348. They use a #10-32 UNF threaded interface (screw type). They offer electrical performance from DC to 10 GHz. Male (a.k.a. plug) SMC connectors have a socket for the center contact, and Female (a.k.a. jack) SMC connectors have a pin for the center contact. SMC jack connectors have an external thread while SMC plug connectors have the mating hex nut. Available in 50-Ohm and 75-Ohm characteristic impedance, they provide an interconnect means for small form factor coaxial cables (e.g. 50-Ohm RG-174, 75-Ohm RG-179) and printed circuit boards where small footprint is important. The term Subvis connector appears to be European usage; the connectors appear to be electrically and mechanically equivalent to SMC.Discussion of SMC/Subvis equivalence ==See also== *SMA connector, SMB connector *BNC connector, TNC connector, N connector ==References== Category:RF connectors",
+ "title": "SMC connector"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "663673",
+ "text": "In computational complexity theory, the complexity class NE is the set of decision problems that can be solved by a non-deterministic Turing machine in time O(kn) for some k. NE, unlike the similar class NEXPTIME, is not closed under polynomial-time many-one reductions. ==See also== * E (complexity). ==References== Category:Complexity classes",
+ "title": "NE (complexity)"
+}

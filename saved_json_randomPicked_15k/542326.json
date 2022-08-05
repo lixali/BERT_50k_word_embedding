@@ -1,0 +1,5 @@
+{
+ "id": "542326",
+ "text": "In mathematics, an outer measure μ on n-dimensional Euclidean space Rn is called a Borel regular measure if the following two conditions hold: * Every Borel set B ⊆ Rn is μ-measurable in the sense of Carathéodory's criterion: for every A ⊆ Rn, ::\\mu (A) = \\mu (A \\cap B) + \\mu (A \\setminus B). * For every set A ⊆ Rn there exists a Borel set B ⊆ Rn such that A ⊆ B and μ(A) = μ(B). Notice that the set A need not be μ-measurable: μ(A) is however well defined as μ is an outer measure. An outer measure satisfying only the first of these two requirements is called a Borel measure, while an outer measure satisfying only the second requirement (with the Borel set B replaced by a measurable set B) is called a regular measure. The Lebesgue outer measure on Rn is an example of a Borel regular measure. It can be proved that a Borel regular measure, although introduced here as an outer measure (only countably subadditive), becomes a full measure (countably additive) if restricted to the Borel sets. ==References== * * * Category:Measures (measure theory)",
+ "title": "Borel regular measure"
+}

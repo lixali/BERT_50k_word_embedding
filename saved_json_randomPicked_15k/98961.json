@@ -1,0 +1,5 @@
+{
+ "id": "98961",
+ "text": "The IBM 370 printer was used on the IBM 305 RAMAC computer system, introduced by IBM on September 14, 1956. The 370 was connected to the 305 by a serial data line from the S track of the computer's drum memory and printed 80-columns with a punched tape controlled carriage. Line formatting was programmed by inserting wire jumpers into a plugboard control panel. The printer mechanism used an eight sided, seven position (56 character) print slug in a horizontal orientation. The X, O, and 2 bits of the character code rotate the slug and the 1, 4, and 8 bits selected the position. The platen hammer then struck the paper from behind, causing the selected character to print. Of the 56 characters on the print slug, only 47 were printable with the standard valid character set of the IBM 305 computer—the complete alphabet, numbers 0–9, and eleven special characters (48 characters, including the blank character).305 RAMAC Manual of Operation, IBM, April 1957. ==References== 370 IBM 0370 Category:Computer-related introductions in 1956",
+ "title": "IBM 370 printer"
+}

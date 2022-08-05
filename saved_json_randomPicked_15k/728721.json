@@ -1,0 +1,5 @@
+{
+ "id": "728721",
+ "text": "Ming is a C library for creating Adobe Flash (.swf) files. It is often packaged as a PHP module that allows for the dynamic generation of Flash animations. In addition to PHP, the library can also be used in the programming languages C++, Perl, Python, and Ruby. Ming's core library is distributed under the terms of the GNU Lesser General Public License, and its makeswf command-line tool is distributed under the terms of the GNU General Public License, thus making Ming free software. ==References== ==External links== * **Documentation *ming at PECL Category:C (programming language) libraries Category:Free multimedia software Category:Adobe Flash Category:Animation software",
+ "title": "Ming library"
+}

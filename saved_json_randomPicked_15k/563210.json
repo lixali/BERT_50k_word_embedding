@@ -1,0 +1,5 @@
+{
+ "id": "563210",
+ "text": "Torus-based cryptography involves using algebraic tori to construct a group for use in ciphers based on the discrete logarithm problem. This idea was first introduced by Alice Silverberg and Karl Rubin in 2003 in the form of a public key algorithm by the name of CEILIDH. It improves on conventional cryptosystems by representing some elements of large finite fields compactly and therefore transmitting fewer bits. ==See also== * Torus ==References== * Karl Rubin, Alice Silverberg: Torus-Based Cryptography. CRYPTO 2003: 349-365 ==External links== * Torus-Based Cryptography -- the paper introducing the concept (in PDF). Category:Public-key cryptography",
+ "title": "Torus-based cryptography"
+}

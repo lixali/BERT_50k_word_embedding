@@ -1,0 +1,5 @@
+{
+ "id": "740573",
+ "text": "H.235 covers security and encryption for H.323 and other H.245 based terminals. The standard addresses authentication by means of several algorithms, including Diffie-Hellman methods, and privacy. Privacy allows for encryption, also of the media streams. The standardization board agreed on H.235.1 (former H.235 Annex D ITU-T Recommendation H.235.0 (09/05), Appendix IV, page 40) to be the minimum requirement of an H.235 conforming implementation. H.235.1, also known as Baseline Security Profile defines Authentication and Integrity. An H.235.1 aware H.323 Gatekeeper can thereby assure that only trusted H.323 endpoints are granted access to the Gatekeeper's services. ==References== ==External links== * ITU-T Recommendation H.235.1 Baseline security profile Category:Cryptographic protocols Category:ITU-T recommendations",
+ "title": "H.235"
+}

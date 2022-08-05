@@ -1,0 +1,5 @@
+{
+ "id": "857550",
+ "text": "The IBM 1711 Data Converter was part of the IBM 1710 process control computer. The 1711 contained an analog-to-digital converter that accepted signals from the IBM 1712 Multiplexer and Terminal Unit that were between -50 millivolts and +50 millivolts and converted them into signed, four decimal digit numbers that were stored in the 1710s core memory. The 1711 featured a real time clock that could place the current hour and minute into storage, again as a 4 digit number. On the 1711's control panel, there was a bank of seven decimal digit manual entry switches that could be read by the computer. The 1711 also contained address circuitry for the IBM 1712 Multiplexer. Optional 1711 features included contact sense, contact operate, analog output, interrupt, and process branch indicators. While all this and more would fit comfortably on a single IC today, the IBM 1711 occupied a three section rack cabinet. ==See also== *IBM 1800 1711 Category:Computer real-time clocks",
+ "title": "IBM 1711"
+}

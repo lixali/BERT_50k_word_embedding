@@ -1,0 +1,5 @@
+{
+ "id": "301825",
+ "text": "The W window system is a discontinued windowing system and precursor in name and concept to the modern X Window System window system. W was originally developed at Stanford University by Paul Asente and Brian Reid for the V operating system. In 1983, Paul Asente and Chris Kent ported the system to UNIX on the VS100, giving a copy to those working at MIT's Laboratory for Computer Science. In 1984, Bob Scheifler of MIT replaced the synchronous protocol of W with an asynchronous alternative and named the result X. Since this time the X window system has gone through many fundamental changes and no longer bears any significant resemblance to W. ==See also== * History of free and open-source software ==References== ==External links== * Mailing list post on linuxhacker.org Category:Windowing systems",
+ "title": "W Window System"
+}
